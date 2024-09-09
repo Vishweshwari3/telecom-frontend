@@ -1,0 +1,15 @@
+/* DeactivatePage.css */
+.deactivate-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .deactivate-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .deactivate-links li {
+    margin: 10px 0;
+  }
+  
